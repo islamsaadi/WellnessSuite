@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WellnessDiet</string>
+    <string name="estimate_calories">Estimate Calories</string>
+    <string name="calculate_bmi_and_bmr">Calculate BMI and BMR</string>
+    <string name="age">Age</string>
+    <string name="you_activity_level">Choose you activity level:</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="welcome_to_wellnessdiet">Welcome to WellnessDiet</string>
+    <string-array name="activity_levels">
+        <item>Light</item>
+        <item>Moderate</item>
+        <item>Active</item>
+    </string-array>
+</resources>
